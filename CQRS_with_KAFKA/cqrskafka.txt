@@ -1,0 +1,1 @@
+https://fullstackdeveloper.guru/2023/05/04/how-to-implement-cqrs-design-pattern-in-spring-boot/
